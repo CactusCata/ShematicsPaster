@@ -1,0 +1,10 @@
+name: ShematicsPaster
+main: fr.cactuscata.shematicspaster.ShematicsPaster
+author: CactusCata
+version: 1.0.0
+depend: [WorldEdit]
+commands:
+  paster:
+    description: Permet la pose de toutes les shematics
+    usage: /<command>
+    permission: pcm.paster
